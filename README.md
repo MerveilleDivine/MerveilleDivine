@@ -1,198 +1,101 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Mervine Muganguzi, Software Engineer and MSc Computer Engineer" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Mervine Muganguzi's portfolio workspace" />
 </p>
 
 <p align="center">
-  <a href="https://mervine.dev"><strong>Portfolio</strong></a>
+  <a href="https://mervine.dev"><strong>mervine.dev</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://mervine.dev/#projects"><strong>Selected work</strong></a>
+  <a href="https://mervine.dev/#projects">selected work</a>
   &nbsp;·&nbsp;
-  <a href="https://mervine.dev/#contact"><strong>Contact</strong></a>
+  <a href="https://mervine.dev/#contact">contact</a>
 </p>
 
-<p align="center">
-  I build useful software with the care of a product engineer, the curiosity of a researcher, and the clarity of a teacher.
-</p>
+## Hi, I’m Mervine.
 
----
+I’m a software engineer with an MSc in Computer Engineering. I build full-stack products, explore AI-enabled systems, and care a lot about the difference between software that simply runs and software that is actually clear, reliable, and useful.
 
-## The engineering lens I bring
+I also spent time teaching programming and computer-engineering courses. That experience changed the way I work: I ask more questions, explain my decisions, and try not to hide complexity behind impressive-sounding words.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+My design background shows up in the small things too. I notice hierarchy, spacing, confusing flows, and the details that make a product feel considered rather than merely finished.
 
-### Build
+## How I like to work
 
-I turn ideas into working full-stack products with clear interfaces, practical architecture, and attention to the complete user journey.
+- I start with the problem, not the technology.
+- I like interfaces that are easy to understand and code that another person can follow.
+- I test the happy path, then ask what happens when things go wrong.
+- I enjoy turning vague ideas into something structured and usable.
+- I care about the person using the product, not only the person reviewing the code.
 
-</td>
-<td width="33%" valign="top">
-
-### Evaluate
-
-My research trained me to look beyond whether software merely works and examine how it behaves, fails, recovers, and can be improved.
-
-</td>
-<td width="33%" valign="top">
-
-### Explain
-
-Teaching strengthened my ability to debug collaboratively, communicate decisions, mentor others, and make complex technical ideas understandable.
-
-</td>
-</tr>
-</table>
-
-I am a **Software Engineer with an MSc in Computer Engineering**, working across full-stack product development, AI-enabled systems, software evaluation, and user-focused interfaces.
-
-My work sits at the intersection of engineering, product thinking, technical communication, and design sensitivity. I care about the internal quality of a system and the experience it creates for the person using it.
-
----
-
-## Featured engineering work
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## A few things I’ve built
 
 ### [CPU Scheduler Simulator](https://github.com/MerveilleDivine/OS_project_scheduler)
 
-A structured C++ simulator for comparing classic CPU scheduling algorithms and process-level performance metrics.
+A C++ command-line simulator for comparing CPU scheduling algorithms. It includes FCFS, SJF, Priority Scheduling, Round Robin, process metrics, regression tests, CMake, and GitHub Actions.
 
-**Engineering evidence**
-
-- FCFS, SJF, Priority, and Round Robin scheduling
-- CLI argument parsing and file-based workflows
-- Regression tests for algorithm correctness
-- CMake and GitHub Actions CI
-- Side-by-side algorithm comparison and Gantt output
-
-`C++` `Operating Systems` `Algorithms` `Testing` `CMake` `CI`
-
-</td>
-<td width="50%" valign="top">
+`C++` `Operating Systems` `Algorithms` `Testing` `CMake`
 
 ### [CIFAR-10 Image Classifier](https://github.com/MerveilleDivine/Image_Classifier)
 
-A modular computer-vision project combining ResNet-50 fine-tuning, image-processing experiments, evaluation, and interactive inference.
-
-**Engineering evidence**
-
-- 84.27% best validation accuracy
-- Separate training, evaluation, preprocessing, and UI modules
-- Raw and DIP-enhanced inference workflows
-- Accuracy, weighted F1, and classification reporting
-- Gradio-based prediction interface
+A modular computer-vision project built around ResNet-50 fine-tuning, image-processing experiments, evaluation, and a Gradio prediction interface. The best validation accuracy recorded was **84.27%**.
 
 `Python` `PyTorch` `Computer Vision` `ResNet-50` `Gradio`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [Loops](https://mervine.dev/projects/loops)
 
-A productivity product designed around time budgeting, flexible planning, and clearer visibility into how time is allocated.
-
-**What it demonstrates**
-
-- Full-stack product development
-- Product and workflow design
-- Responsive interface architecture
-- User-centred feature decisions
-- Iterative UX refinement
+A time-budgeting product for planning life more realistically. It focuses on flexible scheduling, clearer time allocation, and a calmer way to see where the day is going.
 
 `React` `TypeScript` `Product Engineering` `UX`
 
-</td>
-<td width="50%" valign="top">
-
 ### [Covenant Connect](https://mervine.dev/projects/covenant-connect)
 
-A community-focused digital platform built around authentication, structured content, shared workflows, and web/mobile product thinking.
+A community platform with authentication, database-backed content, shared workflows, and web/mobile product thinking.
 
-**What it demonstrates**
-
-- Authentication and protected user flows
-- Database-backed application behaviour
-- Community and content features
-- Web and mobile experience design
-- End-to-end product ownership
-
-`React` `Supabase` `PostgreSQL` `Authentication` `Mobile`
-
-</td>
-</tr>
-</table>
+`React` `Supabase` `PostgreSQL` `Authentication`
 
 <p align="center">
-  <a href="https://mervine.dev/#projects"><strong>Explore all product work and case studies →</strong></a>
+  <a href="https://mervine.dev/#projects"><strong>See the rest of my work →</strong></a>
 </p>
 
----
+## The research behind some of my engineering habits
 
-## Research spotlight
+My MSc thesis was titled **“A Failure-Mode Analysis of an Agentic Coding System for Autonomous Software Engineering.”**
 
-> **A Failure-Mode Analysis of an Agentic Coding System for Autonomous Software Engineering**
+I studied coding agents across multi-step software-engineering tasks. I was interested in more than whether the final answer passed. I looked at what the agent changed, what it ignored, how it tested, when it recovered, and whether the final patch was genuinely clean.
 
-My MSc research examined coding-agent behaviour across multi-step software engineering tasks. Instead of looking only at whether a task was resolved, I studied how agents reasoned, edited, tested, recovered, and failed throughout the trajectory.
+That work made me more attentive to failure cases, testing discipline, debugging behaviour, and the danger of confusing a passing result with good engineering.
 
-The study strengthened my judgement around:
+## What I work with
 
-- software quality beyond surface-level success
-- failure-mode analysis and behavioural evaluation
-- testing discipline and patch cleanliness
-- autonomous software-engineering workflows
-- the difference between code that passes and engineering that is reliable
+**Languages**  
+Python · TypeScript · JavaScript · C · C++
 
----
+**Frontend and mobile**  
+React · Next.js · React Native · HTML · CSS · Tailwind CSS
 
-## Technical toolkit
+**Backend and data**  
+Node.js · FastAPI · REST APIs · PostgreSQL · Supabase · MongoDB · Redis
 
-| Area | Technologies and capabilities |
-|---|---|
-| **Languages** | Python · TypeScript · JavaScript · C · C++ |
-| **Frontend & mobile** | React · Next.js · React Native · HTML · CSS · Tailwind CSS |
-| **Backend & APIs** | Node.js · FastAPI · REST APIs · application logic · integrations |
-| **Data** | PostgreSQL · Supabase · MongoDB · Redis |
-| **Engineering workflow** | Git · GitHub Actions · Docker · WSL2 · testing · CI/CD fundamentals |
-| **AI & evaluation** | Agentic coding systems · benchmarking · software evaluation · computer vision · applied AI |
+**Workflow**  
+Git · GitHub Actions · Docker · WSL2 · testing · CI/CD fundamentals
 
----
+**AI and evaluation**  
+Agentic coding systems · benchmarking · software evaluation · computer vision · applied AI
 
-## What I bring to a team
+## Right now
 
-- **Product awareness:** I connect implementation decisions to actual user needs and workflows.
-- **Technical judgement:** I care about correctness, maintainability, testing, and failure behaviour.
-- **Clear communication:** Teaching experience helps me explain, document, mentor, and collaborate effectively.
-- **Design sensitivity:** I pay attention to hierarchy, accessibility, interaction, and the details users feel.
-- **Ownership:** I am comfortable moving from an unclear idea to a structured, working product.
+I’m polishing the projects that best represent me, strengthening my backend and systems foundations, and preparing for software-engineering roles where I can keep learning while contributing to real products.
 
----
+I’m open to **graduate and junior software-engineering opportunities across Europe and remote EMEA teams**.
 
-## Current direction
+## A little beyond code
 
-I am currently focused on:
-
-- refining production-quality full-stack and AI-enabled projects
-- deepening backend, systems, and software-engineering fundamentals
-- strengthening technical and behavioural interview performance
-- contributing to teams that care about useful products and thoughtful engineering
-
-I am open to **graduate and junior software engineering roles across Europe and remote EMEA teams**.
-
----
+I enjoy teaching, design, music, and projects that begin with a real person and a real need. I tend to care about both the structure behind a product and the feeling someone has while using it.
 
 <p align="center">
-  <strong>Build thoughtfully. Evaluate rigorously. Communicate clearly.</strong>
-</p>
-
-<p align="center">
-  <a href="https://mervine.dev">mervine.dev</a>
+  <strong>Useful software, built with care.</strong><br />
+  <a href="https://mervine.dev">Portfolio</a>
   &nbsp;·&nbsp;
-  <a href="https://mervine.dev/#projects">project case studies</a>
+  <a href="https://mervine.dev/#projects">Projects</a>
   &nbsp;·&nbsp;
-  <a href="https://mervine.dev/#contact">start a conversation</a>
+  <a href="https://mervine.dev/#contact">Contact</a>
 </p>
