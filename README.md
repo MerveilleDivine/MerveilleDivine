@@ -12,19 +12,19 @@
 
 ## Hi, I’m Mervine.
 
-I’m a software engineer with an MSc in Computer Engineering. I build full-stack products, explore AI-enabled systems, and care a lot about the difference between software that simply runs and software that is actually clear, reliable, and useful.
+I’m a software engineer with an MSc in Computer Engineering. I build full-stack products and AI-enabled systems, with a particular interest in the parts that are easy to overlook: failure cases, confusing flows, weak assumptions, and the small details that decide whether software feels thoughtful or merely finished.
 
-I also spent time teaching programming and computer-engineering courses. That experience changed the way I work: I ask more questions, explain my decisions, and try not to hide complexity behind impressive-sounding words.
+I like software that is useful, understandable, and honest about what it can do. I care about the code, but I also care about the person on the other side of it.
 
-My design background shows up in the small things too. I notice hierarchy, spacing, confusing flows, and the details that make a product feel considered rather than merely finished.
+Teaching taught me to explain. Research taught me to question passing results. Design taught me to notice. All three shape the way I build.
 
-## How I like to work
+## The way I build
 
-- I start with the problem, not the technology.
-- I like interfaces that are easy to understand and code that another person can follow.
-- I test the happy path, then ask what happens when things go wrong.
-- I enjoy turning vague ideas into something structured and usable.
-- I care about the person using the product, not only the person reviewing the code.
+- Start with the real problem, not the fashionable technology.
+- Keep the interface clear and the code readable enough for someone else to follow.
+- Test the happy path, then look for what breaks around it.
+- Turn vague ideas into something structured, usable, and easier to improve.
+- Treat product decisions and engineering decisions as part of the same conversation.
 
 ## A few things I’ve built
 
@@ -81,13 +81,7 @@ Git · GitHub Actions · Docker · WSL2 · testing · CI/CD fundamentals
 **AI and evaluation**  
 Agentic coding systems · benchmarking · software evaluation · computer vision · applied AI
 
-## Right now
-
-I’m polishing the projects that best represent me, strengthening my backend and systems foundations, and preparing for software-engineering roles where I can keep learning while contributing to real products.
-
-I’m open to **graduate and junior software-engineering opportunities across Europe and remote EMEA teams**.
-
-## A little beyond code
+## Beyond the stack
 
 I enjoy teaching, design, music, and projects that begin with a real person and a real need. I tend to care about both the structure behind a product and the feeling someone has while using it.
 
