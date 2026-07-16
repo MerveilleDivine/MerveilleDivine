@@ -18,13 +18,13 @@ Right now, I’m polishing the projects that best represent me, strengthening my
 
 ## Selected work
 
-### [CPU Scheduler Simulator](https://github.com/MerveilleDivine/OS_project_scheduler)
+### [CPU Scheduler Simulator](https://github.com/MerveilleDivine/cpu-scheduler-simulator)
 
 A C++ simulator for FCFS, SJF, Priority Scheduling, and Round Robin. I returned to an old course project, separated parsing, scheduling, and reporting, then added comparison mode, regression tests, CMake, CTest, and GitHub Actions.
 
 `C++` `Operating Systems` `Algorithms` `Testing`
 
-### [CIFAR-10 Image Classifier](https://github.com/MerveilleDivine/Image_Classifier)
+### [CIFAR-10 Image Classifier](https://github.com/MerveilleDivine/cifar10-image-classifier)
 
 A modular computer-vision project built around ResNet-50 fine-tuning and digital image-processing experiments. Training, evaluation, preprocessing, and inference are separated, and the best recorded validation accuracy is **84.27%**.
 
