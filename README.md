@@ -1,68 +1,58 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Mervine Muganguzi's portfolio workspace" />
+  <img src="./assets/profile-hero.svg" width="100%" alt="Mervine Muganguzi, Software Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://mervine.dev"><strong>mervine.dev</strong></a>
+  <a href="https://mervine.dev"><strong>Portfolio</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://mervine.dev/#projects">selected work</a>
+  <a href="https://mervine.dev/#projects">Selected work</a>
   &nbsp;·&nbsp;
-  <a href="https://mervine.dev/#contact">contact</a>
+  <a href="https://mervine.dev/#contact">Contact</a>
 </p>
 
 ## Hi, I’m Mervine.
 
-I’m a software engineer with an MSc in Computer Engineering. I build full-stack products and AI-enabled systems, with a particular interest in the parts that are easy to overlook: failure cases, confusing flows, weak assumptions, and the small details that decide whether software feels thoughtful or merely finished.
+I’m a software engineer with an MSc in Computer Engineering. I work across backend systems, full-stack products, and applied AI, with a particular interest in failure cases, system behaviour, and the decisions that make software dependable.
 
-I like software that is useful, understandable, and honest about what it can do. I care about the code, but I also care about the person on the other side of it.
+Right now, I’m polishing the projects that best represent me, strengthening my backend and systems foundations, and preparing for software-engineering roles where I can contribute, learn, and grow.
 
-Teaching taught me to explain. Research taught me to question passing results. Design taught me to notice. All three shape the way I build.
-
-## The way I build
-
-- Start with the real problem, not the fashionable technology.
-- Keep the interface clear and the code readable enough for someone else to follow.
-- Test the happy path, then look for what breaks around it.
-- Turn vague ideas into something structured, usable, and easier to improve.
-- Treat product decisions and engineering decisions as part of the same conversation.
-
-## A few things I’ve built
+## Selected work
 
 ### [CPU Scheduler Simulator](https://github.com/MerveilleDivine/OS_project_scheduler)
 
-A C++ command-line simulator for comparing CPU scheduling algorithms. It includes FCFS, SJF, Priority Scheduling, Round Robin, process metrics, regression tests, CMake, and GitHub Actions.
+A C++ simulator for FCFS, SJF, Priority Scheduling, and Round Robin. I returned to an old course project, separated parsing, scheduling, and reporting, then added comparison mode, regression tests, CMake, CTest, and GitHub Actions.
 
-`C++` `Operating Systems` `Algorithms` `Testing` `CMake`
+`C++` `Operating Systems` `Algorithms` `Testing`
 
 ### [CIFAR-10 Image Classifier](https://github.com/MerveilleDivine/Image_Classifier)
 
-A modular computer-vision project built around ResNet-50 fine-tuning, image-processing experiments, evaluation, and a Gradio prediction interface. The best validation accuracy recorded was **84.27%**.
+A modular computer-vision project built around ResNet-50 fine-tuning and digital image-processing experiments. Training, evaluation, preprocessing, and inference are separated, and the best recorded validation accuracy is **84.27%**.
 
-`Python` `PyTorch` `Computer Vision` `ResNet-50` `Gradio`
+`Python` `PyTorch` `Computer Vision` `Gradio`
 
 ### [Loops](https://mervine.dev/projects/loops)
 
-A time-budgeting product for planning life more realistically. It focuses on flexible scheduling, clearer time allocation, and a calmer way to see where the day is going.
+A time-budgeting product for planning life more realistically. It focuses on flexible scheduling, clearer time allocation, and a calmer way to understand where the day is going.
 
 `React` `TypeScript` `Product Engineering` `UX`
 
 ### [Covenant Connect](https://mervine.dev/projects/covenant-connect)
 
-A community platform with authentication, database-backed content, shared workflows, and web/mobile product thinking.
+A web and mobile product for couples to manage communication, shared goals, plans, and daily check-ins. It combines authentication, database-backed workflows, and product decisions across web and mobile.
 
-`React` `Supabase` `PostgreSQL` `Authentication`
+`React` `React Native` `Supabase` `PostgreSQL`
 
 <p align="center">
-  <a href="https://mervine.dev/#projects"><strong>See the rest of my work →</strong></a>
+  <a href="https://mervine.dev/#projects"><strong>Explore the rest of my work →</strong></a>
 </p>
 
-## The research behind some of my engineering habits
+## Research
 
-My MSc thesis was titled **“A Failure-Mode Analysis of an Agentic Coding System for Autonomous Software Engineering.”**
+My MSc thesis, **“A Failure-Mode Analysis of an Agentic Coding System for Autonomous Software Engineering,”** examined coding agents across 100 multi-step software-engineering tasks.
 
-I studied coding agents across multi-step software-engineering tasks. I was interested in more than whether the final answer passed. I looked at what the agent changed, what it ignored, how it tested, when it recovered, and whether the final patch was genuinely clean.
+I looked beyond whether the final patch passed. I studied what the agent changed, how it tested, when it recovered, and whether the result was genuinely clean. Across the evaluation, 53 tasks produced resolving patches, while 21 met a stricter clean-resolution standard.
 
-That work made me more attentive to failure cases, testing discipline, debugging behaviour, and the danger of confusing a passing result with good engineering.
+That work shaped the way I approach debugging, testing, evaluation, and the gap between software that passes and software that is well engineered.
 
 ## What I work with
 
@@ -75,15 +65,11 @@ React · Next.js · React Native · HTML · CSS · Tailwind CSS
 **Backend and data**  
 Node.js · FastAPI · REST APIs · PostgreSQL · Supabase · MongoDB · Redis
 
-**Workflow**  
-Git · GitHub Actions · Docker · WSL2 · testing · CI/CD fundamentals
+**Engineering workflow**  
+Git · GitHub Actions · Docker · testing · CI/CD fundamentals
 
 **AI and evaluation**  
 Agentic coding systems · benchmarking · software evaluation · computer vision · applied AI
-
-## Beyond the stack
-
-I enjoy teaching, design, music, and projects that begin with a real person and a real need. I tend to care about both the structure behind a product and the feeling someone has while using it.
 
 <p align="center">
   <strong>Useful software, built with care.</strong><br />
