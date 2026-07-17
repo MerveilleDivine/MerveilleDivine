@@ -12,9 +12,11 @@
 
 ## Hi, I’m Mervine.
 
-I’m a software engineer with an MSc in Computer Engineering. I work across backend systems, full-stack products, and applied AI, with a particular interest in failure cases, system behaviour, and the decisions that make software dependable.
+**I build software that makes sense.**
 
-Right now, I’m polishing the projects that best represent me, strengthening my backend and systems foundations, and preparing for software-engineering roles where I can contribute, learn, and grow.
+To the people using it. To the engineers maintaining it. To the business it is meant to serve.
+
+I’m a software engineer with an MSc in Computer Engineering. My work spans backend systems, full-stack products, mobile applications, and applied AI, but the standard stays the same: every feature, workflow, and technical decision should have a reason for being there.
 
 ## Selected work
 
@@ -72,7 +74,7 @@ Git · GitHub Actions · Docker · testing · CI/CD fundamentals
 Agentic coding systems · benchmarking · software evaluation · computer vision · applied AI
 
 <p align="center">
-  <strong>Useful software, built with care.</strong><br />
+  <strong>Software that makes sense.</strong><br />
   <a href="https://mervine.dev">Portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://mervine.dev/#projects">Projects</a>
