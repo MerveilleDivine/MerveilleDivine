@@ -50,9 +50,9 @@ A web and mobile product for couples to manage communication, shared goals, plan
 
 ## Research
 
-My MSc thesis, **“A Failure-Mode Analysis of an Agentic Coding System for Autonomous Software Engineering,”** examined coding agents across 100 multi-step software-engineering tasks.
+My MSc thesis, **“A Failure-Mode Analysis of an Agentic Coding System for Autonomous Software Engineering,”** examined 100 recorded SWE-agent trajectories on SWE-bench Lite.
 
-I looked beyond whether the final patch passed. I studied what the agent changed, how it tested, when it recovered, and whether the result was genuinely clean. Across the evaluation, 53 tasks produced resolving patches, while 21 met a stricter clean-resolution standard.
+I looked beyond whether the final patch passed. I studied what the agent changed, how it tested, when it recovered, and whether the result was genuinely clean. Across the evaluation, 53 runs produced resolving patches, of which 21 met the study’s stricter clean-resolution criteria.
 
 That work shaped the way I approach debugging, testing, evaluation, and the gap between software that passes and software that is well engineered.
 
