@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://mervine.dev"><strong>Portfolio</strong></a>
+  <a href="https://www.mervine.dev"><strong>Portfolio</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://mervine.dev/#projects">Selected work</a>
+  <a href="https://www.mervine.dev/#projects">Selected work</a>
   &nbsp;·&nbsp;
-  <a href="https://mervine.dev/#contact">Contact</a>
+  <a href="https://www.mervine.dev/#contact">Contact</a>
 </p>
 
 ## Hi, I’m Mervine.
@@ -18,34 +18,32 @@ To the people using it. To the engineers maintaining it. To the business it is m
 
 I’m a software engineer with an MSc in Computer Engineering. My work spans backend systems, full-stack products, mobile applications, and applied AI, but the standard stays the same: every feature, workflow, and technical decision should have a reason for being there.
 
-## Selected work
+## Public code
 
-### [CPU Scheduler Simulator](https://github.com/MerveilleDivine/cpu-scheduler-simulator)
+Four repositories with documented setup, implementation details, and automated checks:
 
-A C++ simulator for FCFS, SJF, Priority Scheduling, and Round Robin. I returned to an old course project, separated parsing, scheduling, and reporting, then added comparison mode, regression tests, CMake, CTest, and GitHub Actions.
+| Project | What you can inspect |
+|---|---|
+| [Papa AI Toolbox](https://github.com/MerveilleDivine/papa-ai-toolbox) | A French-first React and TypeScript app for discovering AI tools, with shareable filters, tool detail pages, persistent favourites, and component tests. |
+| [Remote Job Search](https://github.com/MerveilleDivine/remote-job-search) | A Python client for the JSearch API with CLI and Gradio interfaces, validated inputs, retries, deduplication, CSV export, and unit tests. |
+| [CPU Scheduler Simulator](https://github.com/MerveilleDivine/cpu-scheduler-simulator) | A C++ simulator for FCFS, SJF, SRTF, Priority, and Round Robin, with comparison mode, text and JSON reports, CMake, CTest, and regression tests. |
+| [CIFAR-10 Image Classifier](https://github.com/MerveilleDivine/cifar10-image-classifier) | A modular PyTorch project for ResNet-50 fine-tuning, image-processing experiments, evaluation, and Gradio inference, with deterministic data-split and preprocessing tests. |
 
-`C++` `Operating Systems` `Algorithms` `Testing`
+The CIFAR-10 project's **84.27% validation accuracy** comes from the original experiment. The current architecture and data split require a fresh training and evaluation run before reporting new results.
 
-### [CIFAR-10 Image Classifier](https://github.com/MerveilleDivine/cifar10-image-classifier)
+## Products and case studies
 
-A modular computer-vision project built around ResNet-50 fine-tuning and digital image-processing experiments. Training, evaluation, preprocessing, and inference are separated, and the best recorded validation accuracy is **84.27%**.
+| Product | What I built | Explore |
+|---|---|---|
+| **Norland RDC** | A French-first e-commerce and distributor platform with product discovery and customer workflows. Next.js, TypeScript, Supabase, and PostgreSQL. | [Case study](https://www.mervine.dev/projects/norland-rdc) |
+| **LOOPS** | A time-budgeting product for flexible scheduling and clearer time allocation. React, TypeScript, Supabase, and PostgreSQL. | [Case study](https://www.mervine.dev/projects/loops) |
+| **Covenant Connect** | Web and mobile experiences for couples, including shared goals, plans, communication, and daily check-ins. React, React Native, Expo, and Supabase. | [Case study](https://www.mervine.dev/projects/covenant-connect) |
+| **Equitas RDC** | A public-interest platform that presents the organisation's mission and makes participation easier. React, TypeScript, Tailwind CSS, and Supabase. | [Case study](https://www.mervine.dev/projects/equitas-rdc) |
 
-`Python` `PyTorch` `Computer Vision` `Gradio`
-
-### [Loops](https://mervine.dev/projects/loops)
-
-A time-budgeting product for planning life more realistically. It focuses on flexible scheduling, clearer time allocation, and a calmer way to understand where the day is going.
-
-`React` `TypeScript` `Product Engineering` `UX`
-
-### [Covenant Connect](https://mervine.dev/projects/covenant-connect)
-
-A web and mobile product for couples to manage communication, shared goals, plans, and daily check-ins. It combines authentication, database-backed workflows, and product decisions across web and mobile.
-
-`React` `React Native` `Supabase` `PostgreSQL`
+These case studies cover product decisions, my role, and the implementation. Source repositories for these products are private.
 
 <p align="center">
-  <a href="https://mervine.dev/#projects"><strong>Explore the rest of my work →</strong></a>
+  <a href="https://www.mervine.dev/#projects"><strong>Explore all my projects →</strong></a>
 </p>
 
 ## Research
@@ -75,9 +73,9 @@ Agentic coding systems · benchmarking · software evaluation · computer vision
 
 <p align="center">
   <strong>Software that makes sense.</strong><br />
-  <a href="https://mervine.dev">Portfolio</a>
+  <a href="https://www.mervine.dev">Portfolio</a>
   &nbsp;·&nbsp;
-  <a href="https://mervine.dev/#projects">Projects</a>
+  <a href="https://www.mervine.dev/#projects">Projects</a>
   &nbsp;·&nbsp;
-  <a href="https://mervine.dev/#contact">Contact</a>
+  <a href="https://www.mervine.dev/#contact">Contact</a>
 </p>
