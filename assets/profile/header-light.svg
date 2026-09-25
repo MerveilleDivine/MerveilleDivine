@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Mervine Muganguzi | Software Engineer</title>
+  <desc id="desc">Full-stack products and applied AI. Useful software, careful engineering. MSc in Computer Engineering. An editorial design in lavender, charcoal, and soft peach.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#E9E3F1" stroke-width="1"/></pattern>
+    <clipPath id="frame"><rect x="0.5" y="0.5" width="1199" height="379" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="380" fill="#F8F6FC"/>
+    <rect x="752" y="0" width="448" height="380" fill="url(#grid)"/>
+    <path d="M752 0V380" stroke="#DBD3E8" stroke-width="1"/>
+    <g font-family="Inter, 'Segoe UI', Arial, sans-serif">
+      <text x="56" y="52" fill="#7456B6" font-size="15" font-weight="500" letter-spacing="2.8">SOFTWARE ENGINEER</text>
+      <text x="56" y="148" fill="#23202E" font-size="78" font-weight="600" letter-spacing="-3.6">Mervine</text>
+      <text x="52" y="230" fill="#23202E" font-size="78" font-weight="600" letter-spacing="-3.6">Muganguzi<tspan fill="#AD6149">.</tspan></text>
+      <text x="56" y="281" fill="#655E76" font-size="23" font-weight="400" letter-spacing="-0.3">Useful software. Careful engineering.</text>
+      <text x="56" y="351" fill="#655E76" font-size="14" letter-spacing="1.3">MSc COMPUTER ENGINEERING</text>
+      <text x="1136" y="52" text-anchor="end" fill="#655E76" font-size="13" letter-spacing="1.6">FULL-STACK / APPLIED AI</text>
+      <text x="1136" y="351" text-anchor="end" fill="#7456B6" font-size="18" letter-spacing="-0.2">mervine.dev</text>
+    </g>
+    <path d="M56 316H1144" stroke="#DBD3E8" stroke-width="1"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M816 282V108H864L956 210L1048 108H1096V282" stroke="#DBD3E8" stroke-width="1.4"/>
+      <path d="M832 278V128H860L956 233L1052 128H1080V278" stroke="#7456B6" stroke-opacity="0.26" stroke-width="1.5"/>
+      <path d="M848 275V150L956 257L1064 150V275" stroke="#7456B6" stroke-width="2.7"/>
+      <path d="M848 275H892M1064 275H1020" stroke="#7456B6" stroke-width="2.7"/>
+      <path d="M956 93V115M945 104H967" stroke="#DBD3E8" stroke-width="1.4"/>
+    </g>
+    <g fill="#F8F6FC" stroke="#7456B6" stroke-width="2"><circle cx="848" cy="150" r="5"/><circle cx="1064" cy="150" r="5"/></g>
+    <circle cx="956" cy="257" r="5" fill="#AD6149"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="379" rx="14" fill="none" stroke="#DBD3E8"/>
+</svg>
