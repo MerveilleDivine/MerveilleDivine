@@ -1,85 +1,74 @@
 <a href="https://www.mervine.dev/">
   <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/profile/header-dark-compact.svg" />
-    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/profile/header-light-compact.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/header-dark.svg" />
-    <img src="./assets/profile/header-light.svg" width="100%" alt="Mervine Muganguzi. Software engineer working across full-stack products and applied AI. Useful software. Careful engineering." />
+    <source media="(max-width: 600px)" srcset="./assets/profile/website-header-compact.svg" />
+    <img src="./assets/profile/website-header.svg" width="100%" alt="Mervine Muganguzi, Software Engineer. I build software that makes sense. To the people using it. To the engineers maintaining it. To the business it is meant to serve." />
   </picture>
 </a>
 
 <p>
-  <a href="https://www.mervine.dev/">Website ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mervine-muganguzi-981568236/">LinkedIn ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.mervine.dev/#contact">Get in touch ↗</a>
+  <a href="https://www.mervine.dev/">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mervine-muganguzi-981568236/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.mervine.dev/#contact">Contact</a>
 </p>
 
-I’m Mervine, a software engineer with an MSc in Computer Engineering. I build full-stack products and backend systems, and study the reliability of AI coding agents.
+I'm Mervine, a software engineer with an MSc in Computer Engineering. I build web and mobile applications and their backends. My work includes a commerce platform for Norland RDC, the LOOPS time-budgeting app, and research on AI coding agents.
 
-I care about what happens after the first working version: whether the interface is clear, the code is maintainable, and the system behaves well when something goes wrong.
+## Public projects
 
-## Research · Beyond a passing patch
+### [Papa AI Toolbox](https://github.com/MerveilleDivine/papa-ai-toolbox)
 
-My MSc research examined how AI coding agents fail, not just whether they solve a task. I analysed 100 SWE-agent trajectories on SWE-bench Lite, tracing code changes, testing behaviour, and recovery attempts.
+I built this for my father to help him try AI tools in French. It includes explanations, example prompts, search, and saved favourites.
 
-> 53 of 100 runs produced resolving patches. Of those, 21 met the study’s stricter clean-resolution criteria.
+<sub>React · TypeScript</sub>
 
-That distinction shapes how I approach AI-assisted development: inspect the process, verify the result, and make the limits explicit.
+### [Remote Job Search](https://github.com/MerveilleDivine/remote-job-search)
 
-<details>
-  <summary>Thesis title</summary>
-  <p><em>A Failure-Mode Analysis of an Agentic Coding System for Autonomous Software Engineering.</em></p>
-</details>
+A Python app for searching roles through the JSearch API, removing duplicates, and exporting results to CSV. It has a command-line interface, a Gradio interface, and tests for the API client.
 
-## Selected public work
+<sub>Python · Gradio · REST APIs</sub>
 
-### [Papa AI Toolbox ↗](https://github.com/MerveilleDivine/papa-ai-toolbox)
+### [CPU Scheduler Simulator](https://github.com/MerveilleDivine/cpu-scheduler-simulator)
 
-A French-first introduction to AI tools, originally built for my father. It turns a crowded subject into practical guidance, with shareable filters, tool detail pages, and persistent favourites.
+A university operating systems project I later refactored. It compares five scheduling algorithms on the same input and produces timelines, performance metrics, and JSON reports.
 
-<sub>React · TypeScript · Component tests</sub>
+<sub>C++ · CMake · CTest</sub>
 
-### [Remote Job Search ↗](https://github.com/MerveilleDivine/remote-job-search)
+### [CIFAR-10 Image Classifier](https://github.com/MerveilleDivine/cifar10-image-classifier)
 
-A Python API client with CLI and Gradio interfaces. Input validation, retry handling, deduplication, and CSV export keep the search workflow useful beyond the happy path.
+A ResNet-50 image classification project built with PyTorch. Training, image processing, evaluation, and Gradio inference are split into separate modules.
 
-<sub>Python · REST APIs · Gradio · Unit tests</sub>
+<sub>Python · PyTorch · Gradio</sub>
 
-### [CPU Scheduler Simulator ↗](https://github.com/MerveilleDivine/cpu-scheduler-simulator)
+## Product work
 
-Five scheduling algorithms, compared on the same workload. I revisited a university project to separate parsing, scheduling, and reporting, with text and JSON output and regression tests.
+These projects have private source repositories. Their case studies are on my website.
 
-<sub>C++ · CMake · CTest · GitHub Actions</sub>
+[Norland RDC](https://www.mervine.dev/projects/norland-rdc)  
+A commerce platform with a product catalogue and distributor workflows.
 
-### [CIFAR-10 Image Classifier ↗](https://github.com/MerveilleDivine/cifar10-image-classifier)
+[LOOPS](https://www.mervine.dev/projects/loops)  
+An app for budgeting time and planning schedules.
 
-A modular ResNet-50 training and evaluation pipeline with image-processing experiments and Gradio inference. Data splits, preprocessing, and evaluation are explicit rather than hidden in one training script.
+[Covenant Connect](https://www.mervine.dev/projects/covenant-connect)  
+Web and mobile apps for couples to share goals, plans, and daily check-ins.
 
-<sub>Python · PyTorch · Computer vision · Gradio</sub>
+[Equitas RDC](https://www.mervine.dev/projects/equitas-rdc)  
+An organisation's website presenting its work and ways to get involved.
 
-## Products & case studies
+## Research
 
-Alongside public code, I build user-facing products. These links cover the product decisions and implementation; their source repositories are private.
+My MSc thesis, *A Failure-Mode Analysis of an Agentic Coding System for Autonomous Software Engineering*, studied SWE-agent on SWE-bench Lite.
 
-[Norland RDC ↗](https://www.mervine.dev/projects/norland-rdc)  
-French-first commerce, product discovery, and distributor workflows.
+I reviewed 100 recorded runs, following the agent's code changes, tests, and attempts to recover from mistakes. In that evaluation, 53 runs resolved the task, and 21 of those met the study's stricter clean-resolution criteria.
 
-[LOOPS ↗](https://www.mervine.dev/projects/loops)  
-Time budgeting and flexible scheduling, built around how people plan their days.
-
-[Covenant Connect ↗](https://www.mervine.dev/projects/covenant-connect)  
-Web and mobile experiences for shared goals, plans, and daily check-ins.
-
-[Equitas RDC ↗](https://www.mervine.dev/projects/equitas-rdc)  
-A public-interest platform for clearer information and easier participation.
-
-## My usual toolkit
+## Technologies
 
 Python · TypeScript · JavaScript · C · C++  
-React · Next.js · React Native · Node.js · FastAPI  
+React · Next.js · React Native · FastAPI · Node.js  
 PostgreSQL · Supabase · PyTorch · Docker · GitHub Actions
 
 ---
 
-For engineering work, collaborations, or research conversations, [get in touch](https://www.mervine.dev/#contact) or [connect on LinkedIn](https://www.linkedin.com/in/mervine-muganguzi-981568236/).
+[More about me](https://www.mervine.dev/about) · [Get in touch](https://www.mervine.dev/#contact)
