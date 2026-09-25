@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Mervine Muganguzi | Software Engineer</title>
+  <desc id="desc">I build software that makes sense. To the people using it. To the engineers maintaining it. To the business it is meant to serve.</desc>
+  <!-- Brand source: MerveilleDivine/mervine-dev, src/i18n/brandOverrides.ts,
+       src/components/LiveCodeReviewHero.tsx and src/components/TubelightNavbar.tsx.
+       The embedded logo is the original website asset, not a redrawn mark. -->
+  <defs>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#7E69AB" stroke-opacity="0.036"/></pattern>
+    <radialGradient id="glow" cx="50%" cy="4%" r="65%"><stop stop-color="#7E69AB" stop-opacity="0.2"/><stop offset="0.72" stop-color="#7E69AB" stop-opacity="0"/></radialGradient>
+    <clipPath id="frame"><rect x="0.5" y="0.5" width="1199" height="479" rx="12"/></clipPath>
+    <clipPath id="logo-frame"><rect x="1048" y="26" width="96" height="96" rx="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="480" fill="#09090B"/>
+    <rect width="1200" height="480" fill="url(#grid)"/>
+    <rect width="1200" height="480" fill="url(#glow)"/>
+    <text x="56" y="66" fill="#9B87F5" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="600">Mervine Muganguzi</text>
+    <text x="56" y="97" fill="#A1A1AA" font-family="Inter, Arial, sans-serif" font-size="21">Software Engineer</text>
+    <image x="1048" y="26" width="96" height="96" clip-path="url(#logo-frame)" xlink:href="data:image/webp;base64,UklGRloCAABXRUJQVlA4IE4CAACQDgCdASpgAGAAPm02lUikIyIhIctIgA2JaQAREnHP/wGcU/vOO+snPPNZp/n/2Bv1Y/5HrK+vj0RiWHMs9JUY9tQ3sgQY6QyRx6x6Pj5Z2tv8Y1+uDo79+Tsqu56+6D3Y7Z+H4OfCXEkPRvaGvjaERWxzndYRvZFoGxvkAAD+/PhAvv1wp7+fhbY1ayeoTD7dlh29zmbrsr1MQh5++SdWdNgA0kXInbq2eSZHlmjm2mDC3a4xVq/BEy33yf8q/Y+xk2R8Wd83TlJk/CNpPSuUbl5ncWFOVJHrIf3QAVe8FEaxy0t9x6lV4CiUkFKzPa3tmdyraUauO7+37KrKH22Q4xju+Ov2V0XoOtW8sQgnr3Ok80yp+H39aTDO+A/1T5FjxTtgV2dxrdRrTeM3j3txeuJe73+y6yxFwXH/NF/xJcHW3mO+5t1h4pNtj/8yxd/zfNujfzMukq37a4EpJ1FlKiV6BrA4Zt3/vlM2xQuT9nWVszpEDBKLGtn+7Xqiwy8bkuojqlhiqB/hc/Xpp/2dVMNJn9wn+C+ECSbRCDIHqi/N7z+RuD+s8y65Ycm6yZ+hVRNQefsJWavoVk3/M84aOfmhcvQi3Aa4nS3/mjne6pKgOQEhlq8O12lMzmacbkY75gLx8p2WywWUL6mEPYdQlqD5e/Je3zG6a/pRLU0Z/3lbH6TAt8deiqiP7TRT/tT2TrL9xT1bJAwHnZOqFsifDWn/+rE8BJCKgxdEUwrr41CQOPObnJZTzj50uSV8/idTbv8CcWsICUpVYAAAAA=="/>
+    <path d="M56 132H1144" stroke="#30363D"/>
+    <g font-family="Inter, Arial, sans-serif">
+      <text x="56" y="218" fill="#FAFAFA" font-size="75" font-weight="700" letter-spacing="-2.7">I build software</text>
+      <text x="56" y="306" fill="#9B87F5" font-size="75" font-weight="700" letter-spacing="-2.7">that makes sense.</text>
+      <g fill="#D4D4D8" font-size="22" font-weight="400">
+        <text x="56" y="367">To the people using it.</text>
+        <text x="56" y="398">To the engineers maintaining it.</text>
+        <text x="56" y="429">To the business it is meant to serve.</text>
+      </g>
+      <text x="1144" y="438" text-anchor="end" fill="#A1A1AA" font-size="17">mervine.dev</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="479" rx="12" fill="none" stroke="#30363D"/>
+</svg>
