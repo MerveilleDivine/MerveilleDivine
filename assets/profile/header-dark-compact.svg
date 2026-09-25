@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="448" viewBox="0 0 600 448" role="img" aria-labelledby="title desc">
+  <title id="title">Mervine Muganguzi | Software Engineer</title>
+  <desc id="desc">Full-stack products and applied AI. Useful software, careful engineering. MSc in Computer Engineering. An editorial design in lavender, charcoal, and soft peach.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#292431" stroke-width="1"/></pattern>
+    <clipPath id="frame"><rect x="0.5" y="0.5" width="599" height="447" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="600" height="448" fill="#101014"/>
+    <rect x="382" y="0" width="218" height="448" fill="url(#grid)"/>
+    <g fill="none" stroke="#B5A2F5" stroke-opacity="0.14" stroke-width="2" stroke-linejoin="round">
+      <path d="M423 310V88L490 174L557 88V310"/>
+      <path d="M437 310V120L490 191L543 120V310"/>
+    </g>
+    <g font-family="Inter, 'Segoe UI', Arial, sans-serif">
+      <text x="38" y="49" fill="#B5A2F5" font-size="20" font-weight="500" letter-spacing="2.4">SOFTWARE ENGINEER</text>
+      <text x="38" y="141" fill="#F8F7FB" font-size="75" font-weight="600" letter-spacing="-3.3">Mervine</text>
+      <text x="34" y="221" fill="#F8F7FB" font-size="75" font-weight="600" letter-spacing="-3.3">Muganguzi<tspan fill="#F0BEAA">.</tspan></text>
+      <text x="38" y="273" fill="#B9B4C7" font-size="27" letter-spacing="-0.3">Useful software.</text>
+      <text x="38" y="310" fill="#B9B4C7" font-size="27" letter-spacing="-0.3">Careful engineering.</text>
+      <text x="38" y="385" fill="#B9B4C7" font-size="21">Full-stack products · Applied AI</text>
+      <text x="38" y="416" fill="#B5A2F5" font-size="21">mervine.dev</text>
+    </g>
+    <path d="M38 345H562" stroke="#393142" stroke-width="1"/>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="447" rx="14" fill="none" stroke="#393142"/>
+</svg>
