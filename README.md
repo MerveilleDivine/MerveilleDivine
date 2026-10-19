@@ -71,4 +71,4 @@ PostgreSQL · Supabase · PyTorch · Docker · GitHub Actions
 
 ---
 
-[More about me](https://www.mervine.dev/about) · [Get in touch](https://www.mervine.dev/#contact)
+[More about me](https://www.mervine.dev/#about) · [Get in touch](https://www.mervine.dev/#contact)
