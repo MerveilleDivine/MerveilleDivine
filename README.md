@@ -8,7 +8,7 @@
 <p>
   <a href="https://www.mervine.dev/">Website</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/mervine-muganguzi-981568236/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mervine-muganguzi/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://www.mervine.dev/#contact">Contact</a>
 </p>
