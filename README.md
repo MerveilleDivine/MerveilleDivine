@@ -15,7 +15,7 @@
 
 I'm Mervine, a software engineer based in Kaunas, Lithuania. I have an MSc in Computer Engineering, and I build web apps, mobile apps, and the services behind them. I also research how AI coding agents fail and how to evaluate their work.
 
-I'm looking for a backend or full-stack engineering role in Lithuania, or a remote role in Europe.
+Let's work together?
 
 ## Public projects
 
@@ -53,9 +53,6 @@ I used PyTorch and ResNet-50 for this image classification project. Training, im
 
 The source for these projects is private. Each case study shows my work, the decisions I made, and what is ready or still in progress.
 
-### [CAB Music](https://www.mervine.dev/projects/cab-music)
-
-I'm building a music academy platform with a public site and workspaces for students, instructors, and the owner. The frontend is implemented; hosted backend integration is in progress.
 
 ### [Covenant Connect / M&J](https://www.mervine.dev/projects/covenant-connect)
 
