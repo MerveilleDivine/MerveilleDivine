@@ -7,6 +7,9 @@
 **Eneba Marketplace** · [View ↗](https://github.com/MerveilleDivine/eneba)  
 A game marketplace with seller comparisons, transactional checkout and digital-key delivery.
 
+**Roomwise** · [View ↗](https://github.com/MerveilleDivine/room_reservation_system)  
+Meeting-room bookings, conflict checks, room suggestions and reservation management.
+
 **Equitas RDC** · [View ↗](https://www.mervine.dev/projects/equitas-rdc)  
 A bilingual organisation website with French and English content.
 
