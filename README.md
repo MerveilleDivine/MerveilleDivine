@@ -5,35 +5,35 @@
 ### Projects
 
 **Eneba Marketplace** · [View ↗](https://github.com/MerveilleDivine/eneba)  
-<sub>A game marketplace with seller comparisons, transactional checkout and digital-key delivery.</sub>
+A game marketplace with seller comparisons, transactional checkout and digital-key delivery.
 
 **Equitas RDC** · [View ↗](https://www.mervine.dev/projects/equitas-rdc)  
-<sub>A bilingual organisation website with French and English content.</sub>
+A bilingual organisation website with French and English content.
 
 **Webhook Relay** · [View ↗](https://github.com/MerveilleDivine/webhook-relay)  
-<sub>Signed webhook delivery, retries, concurrent workers and recovery after crashes.</sub>
+Signed webhook delivery, retries, concurrent workers and recovery after crashes.
 
 **Covenant Connect** · [View ↗](https://www.mervine.dev/projects/covenant-connect)  
-<sub>A private space for couples to plan, communicate and keep shared memories.</sub>
+A private space for couples to plan, communicate and keep shared memories.
 
 **CPU Scheduler Simulator** · [View ↗](https://github.com/MerveilleDivine/cpu-scheduler-simulator)  
-<sub>Five CPU scheduling algorithms with execution timelines and performance metrics.</sub>
+Five CPU scheduling algorithms with execution timelines and performance metrics.
 
 **CIFAR-10 Image Classifier** · [View ↗](https://github.com/MerveilleDivine/cifar10-image-classifier)  
-<sub>A ResNet-50 experiment with separate training, evaluation and inference workflows.</sub>
+A ResNet-50 experiment with separate training, evaluation and inference workflows.
 
 **Papa AI Toolbox** · [View ↗](https://github.com/MerveilleDivine/papa-ai-toolbox)  
-<sub>A French-language guide to AI tools, made for my father.</sub>
+A French-language guide to AI tools, made for my father.
 
 **Remote Job Search** · [View ↗](https://github.com/MerveilleDivine/remote-job-search)  
-<sub>A Python tool for finding, filtering and exporting remote job listings.</sub>
+A Python tool for finding, filtering and exporting remote job listings.
 
 <br>
 
 ### Research
 
-<sub>My master's research studied where autonomous coding agents fail and how they recover, using 100 SWE-agent runs on SWE-bench Lite.</sub>
+My master's research studied where autonomous coding agents fail and how they recover, using 100 SWE-agent runs on SWE-bench Lite.
 
 <br>
 
-<sub>[Website](https://www.mervine.dev/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mervine-muganguzi/) &nbsp;·&nbsp; [Contact](https://www.mervine.dev/#contact) &nbsp;·&nbsp; [All repositories](https://github.com/MerveilleDivine?tab=repositories)</sub>
+[Website](https://www.mervine.dev/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mervine-muganguzi/) &nbsp;·&nbsp; [Contact](https://www.mervine.dev/#contact) &nbsp;·&nbsp; [All repositories](https://github.com/MerveilleDivine?tab=repositories)
