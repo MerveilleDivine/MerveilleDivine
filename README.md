@@ -1,45 +1,39 @@
-## Mervine Muganguzi
-
-<sub>/ MerveilleDivine</sub>
-
-Software engineer in Lithuania, working across backend systems, web applications, and AI.
-
-*I build software that makes sense.*
+<p><em>I build software that makes sense.</em></p>
 
 <br>
 
-## Projects
+### Projects
 
 **Eneba Marketplace** · [View ↗](https://github.com/MerveilleDivine/eneba)  
-A full-stack game marketplace with seller comparisons, user accounts, transactional checkout and private digital-key delivery.
+<sub>A game marketplace with seller comparisons, transactional checkout and digital-key delivery.</sub>
 
 **Equitas RDC** · [View ↗](https://www.mervine.dev/projects/equitas-rdc)  
-A bilingual organisation website with French and English content, programme pages and contact handling.
+<sub>A bilingual organisation website with French and English content.</sub>
 
 **Webhook Relay** · [View ↗](https://github.com/MerveilleDivine/webhook-relay)  
-A webhook delivery service with signed requests, retries, concurrent workers and recovery after interrupted deliveries.
+<sub>Signed webhook delivery, retries, concurrent workers and recovery after crashes.</sub>
 
 **Covenant Connect** · [View ↗](https://www.mervine.dev/projects/covenant-connect)  
-A private space for couples to plan together, communicate and keep shared memories.
+<sub>A private space for couples to plan, communicate and keep shared memories.</sub>
 
 **CPU Scheduler Simulator** · [View ↗](https://github.com/MerveilleDivine/cpu-scheduler-simulator)  
-A C++ simulator comparing five CPU scheduling algorithms, execution timelines and performance metrics.
+<sub>Five CPU scheduling algorithms with execution timelines and performance metrics.</sub>
 
 **CIFAR-10 Image Classifier** · [View ↗](https://github.com/MerveilleDivine/cifar10-image-classifier)  
-An image classification experiment using ResNet-50, with separate training, evaluation and inference workflows.
+<sub>A ResNet-50 experiment with separate training, evaluation and inference workflows.</sub>
 
 **Papa AI Toolbox** · [View ↗](https://github.com/MerveilleDivine/papa-ai-toolbox)  
-A French-language guide to practical AI tools I built for my father, with search, filters and saved favourites.
+<sub>A French-language guide to AI tools, made for my father.</sub>
 
 **Remote Job Search** · [View ↗](https://github.com/MerveilleDivine/remote-job-search)  
-A Python job-search tool with role filters, retries, duplicate handling and CSV exports.
+<sub>A Python tool for finding, filtering and exporting remote job listings.</sub>
 
 <br>
 
-## Research
+### Research
 
-My master's research examined how autonomous coding agents fail, how they attempt to recover, and why passing a task does not always mean producing a sound solution. I analysed 100 SWE-agent runs on SWE-bench Lite.
+<sub>My master's research studied where autonomous coding agents fail and how they recover, using 100 SWE-agent runs on SWE-bench Lite.</sub>
 
 <br>
 
-[Website](https://www.mervine.dev/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mervine-muganguzi/) &nbsp;·&nbsp; [Contact](https://www.mervine.dev/#contact) &nbsp;·&nbsp; [All repositories](https://github.com/MerveilleDivine?tab=repositories)
+<sub>[Website](https://www.mervine.dev/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mervine-muganguzi/) &nbsp;·&nbsp; [Contact](https://www.mervine.dev/#contact) &nbsp;·&nbsp; [All repositories](https://github.com/MerveilleDivine?tab=repositories)</sub>
